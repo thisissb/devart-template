@@ -1,5 +1,4 @@
-# Project Title
-Noise and Creative Cognition 
+# Noise and Creative Cognition 
 
 ## Authors
 - Sally Bell thisissb
