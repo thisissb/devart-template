@@ -7,9 +7,9 @@ There are only two main components to the installation. A screen for input and t
 ##SQAURE SPACE
 Ideally in a square space we could construct multiple tweet boxes that surround the user and submerge them in sound. 
 
-![DIAGRAM OF SQAURE SPACE](project_images/technical-diagram.jpg?raw=true "TECHNICAL DIAGRAM")
+![DIAGRAM OF SQAURE SPACE](project_images/sqaure-space.png?raw=true "DIAGRAM OF SQAURE SPACE")
 
 ##RECTANGULAR SPACE
 The design of the tweet boxes could be explored. We have illustrated them as birdhouses as they are an optimal shape to hold all the components and traditionally have a nice hole in the front which can act as the seat of our speakers. It only seems natural that tweets would come from the home of a bird.
 
-![DIAGRAM OF SQAURE SPACE](project_images/technical-diagram.jpg?raw=true "TECHNICAL DIAGRAM")
+![DIAGRAM OF RECTANGULAR SPACE](project_images/rectangular-space.png?raw=true "DIAGRAM OF RECTANGULAR SPACE")
