@@ -14,5 +14,10 @@
         ]
     },
     "themes": [
+
+        "sound",
+        "noise",
+        "creativity",
         "thought"
     ]
+}
