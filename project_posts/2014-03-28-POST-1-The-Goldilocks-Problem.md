@@ -1,3 +1,5 @@
+#The Goldilocks Problem
+
 So there are just under 11 hours to submit a project to Google DevArt to have the opportunity to exhibit at the awesome Barbican, what do we do?
 
 "Well it is Friday so we could just pretend we didn't see this and take a long lunch?"
