@@ -12,12 +12,5 @@ Thanks to James at The Milk Men for lending some space that already had SSL and 
 
 [Prototype Link](goo.gl/oRPBcG "Prototype Link")
 
-## Example Code
-NOTE: Wrap your code blocks or any code citation by using ``` like the example below.
-```
-function test() {
-  console.log("Printing a test");
-}
-```
 ## Links to External Libraries
 [twitteroauth by @abraham](https://github.com/abraham/twitteroauth "twitteroauth by @abraham")
