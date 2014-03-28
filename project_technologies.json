@@ -1,16 +1,21 @@
 {
     "technologies": {
         "apis": [
-            "insert apis"
+            "Google Maps"
+            "Google Translate"
+            "Twitter"
         ],
         "platforms": [
-            "insert platforms"
+            "raspberry pi"
+            "linux"
         ],
         "toolkits": [
-            "insert toolkits"
         ]
     },
     "themes": [
-        "insert themes"
+        "sound"
+        "noise"
+        "creativity"
+        "thought"
     ]
 }
