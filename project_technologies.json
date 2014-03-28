@@ -7,14 +7,22 @@
         ],
         "platforms": [
             "raspberry pi"
+<<<<<<< HEAD
 
               ],
+=======
+            
+        ],
+>>>>>>> FETCH_HEAD
         "toolkits": [
            "twitteroauth"
         ]
     },
     "themes": [
+<<<<<<< HEAD
 
+=======
+>>>>>>> FETCH_HEAD
         "sound",
         "noise",
         "creativity",
