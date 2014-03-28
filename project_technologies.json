@@ -1,17 +1,22 @@
 {
     "technologies": {
         "apis": [
-            "Google Maps"
+            "Google Maps",
+            "Google Translate",
+            "Twitter"
         ],
         "platforms": [
             "raspberry pi"
-
+            
         ],
         "toolkits": [
-           "twitteroauth"
-        ]
+            "twitteroauth"
+                ]
     },
     "themes": [
-        "sound"
+        "sound",
+        "noise",
+        "creativity",
+        "thought"
     ]
 }
