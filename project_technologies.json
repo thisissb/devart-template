@@ -10,7 +10,8 @@
             "linux"
         ],
         "toolkits": [
-        ]
+            "twitteroauth"
+                ]
     },
     "themes": [
         "sound"
