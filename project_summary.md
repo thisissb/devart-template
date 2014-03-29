@@ -10,7 +10,7 @@ Our project will gather tweets from the geolocation of the auditor plotting thes
 ## Link to Prototype
 Thanks to James at The Milk Men for lending some space that already had SSL and stuff for our crazy coding marathon.
 
-[Prototype Link](goo.gl/oRPBcG "Prototype Link")
+[Prototype Link](http://goo.gl/oRPBcG "Prototype Link")
 
 ## Links to External Libraries
 [twitteroauth by @abraham](https://github.com/abraham/twitteroauth "twitteroauth by @abraham")
